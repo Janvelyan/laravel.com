@@ -1,4 +1,4 @@
-<li class="nav-docs"><a href="/docs">Documentation</a></li>
+<li class="nav-docs"><a href="/docs">Documentation</a></li> 
 <li class="nav-laracasts"><a href="https://laracasts.com">Laracasts</a></li>
 <li class="nav-lumen"><a href="http://lumen.laravel.com">Lumen</a></li>
 
@@ -23,7 +23,7 @@
 	<ul class="dropdown-menu" role="menu">
 		<li><a href="https://github.com/laravel/laravel">GitHub</a></li>
 		<li class="divider"></li>
-		<li><a href="https://laracasts.com/discuss">Forums</a></li>
+		<li><a href="https://laracasts.com/discuss">Forums1</a></li>
 		<li><a href="http://larachat.co">Slack</a></li>
 		<li class="divider"></li>
 		<li><a href="http://laravel.io">Laravel.io</a></li>
