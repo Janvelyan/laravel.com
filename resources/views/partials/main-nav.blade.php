@@ -32,4 +32,5 @@
 		<li><a href="http://www.laravelpodcast.com/">Podcast</a></li>
 		<li><a href="https://twitter.com/laravelphp">Twitter</a></li>
 	</ul>
-</li>
+</li> 
+
